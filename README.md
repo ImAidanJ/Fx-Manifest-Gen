@@ -19,7 +19,7 @@ The Script Template Generator is a Python-based tool designed to help developers
    - Ensure you have Python installed on your system.
    - Run the script by executing the following command in your terminal:
      ```bash
-     python script_template_generator.py
+     python Fx-Manifest-Gen.pyw
      ```
 
 2. **Enter details in the GUI:**
