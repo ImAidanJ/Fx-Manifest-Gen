@@ -1,7 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S310DONO)
 # Script Template Generator
-
-**Version:** 1.2  
-**Author:** ImAidanJ
 
 ## Description
 
